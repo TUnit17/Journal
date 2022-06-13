@@ -4,3 +4,20 @@
 
 - end of line  `$`.   
 - end of file `shift +g`.   
+
+# Nested List
+- lvl 1
+  - level 2
+
+
+
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+ 
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
