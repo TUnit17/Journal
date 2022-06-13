@@ -7,7 +7,7 @@ line1
 line2
 
 ## Heading 2
-- [] figure out how to generate personal access token
+- [ ] figure out how to generate personal access token
 - where do I store something locally? 
 
 - option 1 automatically saved
