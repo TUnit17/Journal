@@ -13,14 +13,16 @@
 > A simple version of the new habit you want, such as flossing one tooth or doing two push-ups.
 > LC for 5 min when I wake up
 
+B = M A P
+- Behavior = Motiviation + Ability + Prompt
 
 
-# Vi commands 
+# Heading 2: vi commands 
 
 - end of line  `$`.   
 - end of file `shift +g`.   
 
-# Nested List
+# Heading 3: Nested List
 - lvl 1
   - level 2
 
