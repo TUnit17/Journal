@@ -3,8 +3,8 @@ Summary
 2. have two pointers, index1 and index2
 3. single pass
 
-TC = O(n)
-SC = O(1)
+- TC = O(n)
+- SC = O(1)
 
 
 
