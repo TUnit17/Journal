@@ -1,3 +1,13 @@
+Summary
+1. use min = Math.min(min, curr)
+2. have two pointers, index1 and index2
+3. single pass
+
+TC = O(n)
+SC = O(1)
+
+
+
 ```
 /*
 
