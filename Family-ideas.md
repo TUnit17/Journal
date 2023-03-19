@@ -6,3 +6,8 @@
 - dinner?
 - park?
 - ice cream?
+
+
+### Why should we invite them over?
+- maintain good relationship
+- talk about my dad
