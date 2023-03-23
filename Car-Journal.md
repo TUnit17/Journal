@@ -7,12 +7,10 @@
 2. STI will be harder to buy with low mileage in the future
 3. Miata is more fun than STI
 4. Miata will be available in the future
-5. After June, iTero will be paid off
-6. Gr86 has backseat
+5. Miata has 0.9% interest rate
+6. Miata, not sure if I can daily a Miata -> will I need to pick up Paul?After June, iTero will be paid off
 7. Gr86 backseat is not practical for daily use
 8. Gr86 will be available in the future
-9. Miata has 0.9% interest rate
-10. not sure if I can daily a Miata -> will I need to pick up Paul?
 
 
 #### Paul's schedule
