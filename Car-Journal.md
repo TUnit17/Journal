@@ -6,7 +6,7 @@
 1. looking everyday will make me depressed
 2. looking at night makes me depressed
 3. After June, iTero will be paid off
-4. STI costs 43k+4k = 48k ===> sell for 30k === 18k costs
+4. STI costs 43k+4k = 48k ===> sell for 30k === 18k cost
 5. STI is the most flexibility
 6. STI will be harder to buy with low mileage in the future
 7. Miata is more fun than STI
@@ -15,6 +15,7 @@
 10. Miata, not sure if I can daily a Miata -> will I need to pick up Paul?
 11. Gr86 backseat is not practical for daily use
 12. Gr86 will be available in the future
+13. Gr86 can be rented/turoed
 
 
 #### Paul's schedule
