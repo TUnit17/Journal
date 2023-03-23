@@ -10,8 +10,9 @@
 5. After June, iTero will be paid off
 6. Gr86 has backseat
 7. Gr86 backseat is not practical for daily use
-8. Miata has 0.9% interest rate
-9. not sure if I can daily a Miata -> will I need to pick up Paul?
+8. Gr86 will be available in the future
+9. Miata has 0.9% interest rate
+10. not sure if I can daily a Miata -> will I need to pick up Paul?
 
 
 #### Paul's schedule
