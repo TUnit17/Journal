@@ -6,7 +6,7 @@
 1. looking everyday will make me depressed
 2. looking at night makes me depressed
 3. After June, iTero will be paid off
-4. STI costs 43k+4k = 48k
+4. STI costs 43k+4k = 48k ===> sell for 30k === 18k costs
 5. STI is the most flexibility
 6. STI will be harder to buy with low mileage in the future
 7. Miata is more fun than STI
