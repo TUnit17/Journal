@@ -4,13 +4,14 @@
 
 #### Facts
 1. STI is the most flexibility
-2. STI will be harder and harder to buy with low mileage
+2. STI will be harder to buy with low mileage in the future
 3. Miata is more fun than STI
-4. After June, Itero will be paid off
-5. Gr86 has backseat
-6. Gr86 backseat is not practical for daily use
-7. Miata has 0.9% interest rate
-8. not sure if I can daily a Miata -> will I need to pick up Paul?
+4. Miata will be available in the future
+5. After June, iTero will be paid off
+6. Gr86 has backseat
+7. Gr86 backseat is not practical for daily use
+8. Miata has 0.9% interest rate
+9. not sure if I can daily a Miata -> will I need to pick up Paul?
 
 
 #### Paul's schedule
