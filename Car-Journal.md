@@ -4,7 +4,7 @@
 
 #### Facts
 1. looking everyday will make me depressed
-2. look at night makes me depressed
+2. looking at night makes me depressed
 3. STI is the most flexibility
 4. STI will be harder to buy with low mileage in the future
 5. Miata is more fun than STI
