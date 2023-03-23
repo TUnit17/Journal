@@ -5,14 +5,16 @@
 #### Facts
 1. looking everyday will make me depressed
 2. looking at night makes me depressed
-3. STI is the most flexibility
-4. STI will be harder to buy with low mileage in the future
-5. Miata is more fun than STI
-6. Miata will be available in the future
-7. Miata has 0.9% interest rate
-8. Miata, not sure if I can daily a Miata -> will I need to pick up Paul?After June, iTero will be paid off
-9. Gr86 backseat is not practical for daily use
-10. Gr86 will be available in the future
+3. After June, iTero will be paid off
+4. STI costs 43k+4k = 48k
+5. STI is the most flexibility
+6. STI will be harder to buy with low mileage in the future
+7. Miata is more fun than STI
+8. Miata will be available in the future
+9. Miata has 0.9% interest rate
+10. Miata, not sure if I can daily a Miata -> will I need to pick up Paul?
+11. Gr86 backseat is not practical for daily use
+12. Gr86 will be available in the future
 
 
 #### Paul's schedule
