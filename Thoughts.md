@@ -1,4 +1,19 @@
 
+## When will I read code?
+
+## How can I find out what other ppl are working on?
+
+## How can I review more code?
+
+## How can I have smaller PRs?
+
+## How can I increase my programming volume?
+
+## How can I increase my self-confidence as a programmer
+- as a PX programmer?
+ 
+
+## Does my belief in self-confidence actually matter?
 
 ## I have the ability to be a great bro-grammer
 1. I am smart
