@@ -10,14 +10,14 @@
 
 ## How can I handle my tendency to panic?
 What should be my goal when I panic: **recognize it and respond my best, respond a little bit better over time**
-1. recognize
+1. recognize: my situation is causing me to panic because I do not know what to do.
 3. remove myself from the situation/change my environment: go for a walk outside 
 4. take a shower
 5. journal
 6. drink some tea
 7. it could take 30min
 8. take a nap
-9. 
+
 
 ## What could I have done better yesterday?
 1. I read Kelly's PR -> it was kind of helpful but not exactly correct.
