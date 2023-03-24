@@ -1,12 +1,12 @@
 
 
 ## I have the ability to be a great bro-grammer
-- I am smart
-- I am organized
-- I ask good questions
-- there is not much that separated me from Brock
-- I have time
-- I have patience
+1. I am smart
+1. I am organized
+1. I ask good questions
+1. There is not much that separates me from Brock
+1. I have time
+1. I have patience
 
 
 ## Obstacles
