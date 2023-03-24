@@ -14,6 +14,11 @@
  
 
 ## Does my belief in self-confidence actually matter?
+- why do I do on days when I don't feel smart?
+- what is one small action I can take?
+- prayer
+- journaling 
+- In28Min tutorial
 
 ## I have the ability to be a great bro-grammer
 1. I am smart
