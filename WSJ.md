@@ -1,5 +1,10 @@
-## Ford Projects $3 Billion Loss on EV Business for 2023
+## Companies Big and Small Lose Access to Credit Amid Bank Stress
+- Treasury market volatility keeps companies on sidelines during normally busy time for corporate debt financings
+- Companies from mom-and-pop operations to multinationals will find it harder to access credit in the wake of sudden stress in the global banking system, analysts say.
+- Corporate bond borrowing rates are determined by adding a risk premium to the Treasury yield, or risk-free rate. If Treasury yields are moving much more than normal, a company that launches a bond sale in the morning expecting to pay one rate could find the market has changed rapidly by the time the deal is priced in the afternoon.
+- As the regional banks that have come under pressure in recent weeks adjust lending standards, some of their small-business clients may find they are offered loans under stricter terms, in smaller amounts, or not at all. Many regional banks have also faced significant deposit flights in recent days, meaning they have less capital available to lend in the first place. 
 
+## Ford Projects $3 Billion Loss on EV Business for 2023
 
 - expects to lose about $3 billion on its electric-vehicle business this year, a reminder of how far traditional auto makers have to go in turning their EV portfolios profitable. 
 -  Ford today sells three electric vehicles in North America, its largest market: the F-150 Lightning pickup truck, the Mustang Mach-E SUV and a plug-in cargo van.
