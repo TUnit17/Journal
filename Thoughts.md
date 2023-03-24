@@ -6,7 +6,18 @@
 1. How can I increase my programming volume?
 1. How can I increase my self-confidence as a programmer
 - as a PX programmer?
+1. The worst part about panicking is the burnout-cycle 
 
+## How can I handle my tendency to panic?
+What should be my goal when I panic: **recognize it and respond my best, respond a little bit better over time**
+1. recognize
+3. remove myself from the situation/change my environment: go for a walk outside 
+4. take a shower
+5. journal
+6. drink some tea
+7. it could take 30min
+8. take a nap
+9. 
 
 ## What could I have done better yesterday?
 1. I read Kelly's PR -> it was kind of helpful but not exactly correct.
