@@ -9,7 +9,7 @@
 
 
 ## What could I have done better yesterday?
-1. I read Kelly's 
+1. I read Kelly's PR -> it was kind of helpful but not exactly correct.
 2. I read what the existing test as doing -> though this was not 100% the same
 3. I generally felt a sense of panic since I wasn't making process
 4. Toward the ends of the day I had a more finalized problem.
