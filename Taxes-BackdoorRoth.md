@@ -1,12 +1,35 @@
+## Steps
+- [X] confirmed not a taxable event
+- [X] confirmed that I need to zero out the TD Traditional account
+- [ ] call Fidelity for Qualified Plan address and Plan Account Number
+- [ ] fill out TDAmeritrade form
+- [ ] upload PDF
+- [ ] get the check in 2 weeks
+- [ ] send money to Fidelity Account -> zero out TD Ameritrade
+- [ ] fund the TD Traditional -> transfer to Roth
+- [ ] fill out turbo tax
+
+<img width="1134" alt="Screen Shot 2023-03-25 at 12 05 25 PM" src="https://user-images.githubusercontent.com/25929384/227736570-3a8c7955-3f1b-47a3-b706-8077f50950c4.png">
+
+
+## Traditional IRAs That Hold Previously Deducted Contributions
+- https://www.forbes.com/advisor/retirement/backdoor-roth-ira/
+> The IRS views all of your traditional IRAs as a single account when determining the taxes you owe on distributions. Unfortunately, from the IRS’s standpoint, “distributions” include Roth IRA conversions. This fact greatly complicates backdoor Roth IRA conversions for people who already hold existing balances in traditional IRAs.
+
+> In practice, this means you may owe taxes on the money you intend for a backdoor Roth IRA conversion—even if the money has already been taxed. This happens when the IRS’ aggregation rule intersects with the pro-rata rule.
+
+> The pro-rata rule states that once money enters an IRA, you cannot separate the portion that’s already been taxed from the portion that was deducted from taxes. You may hear this described as the “cream in your coffee” rule. Once cream hits the coffee, separating it from the dairy is impossible. The same goes for your pre-tax and post-tax IRA contributions.
+
+> Let’s say 80% of the funds in your combined IRAs earned tax deductions, and 20% did not. When you undertake a backdoor Roth IRA conversion, you can’t separate the already taxed funds for conversion, much like the cream cannot be separated from the coffee. In this example, 80% of the money being converted to a Roth IRA would be taxed in a Roth IRA conversion.
+
+> If you’re considering a backdoor Roth conversion, speak with a financial advisor to help you manage the process to minimize the amount of taxes you may owe. It could make sense to roll over some of your money into a 401(k), which is not considered in pro-rata calculations.
+
+
+---------
+
 > If you roll money from your old workplace savings plan to your current plan within 60 days, you do not have to pay taxes. If you do not roll your money into your current employer's plan within 60 days, you may owe taxes.
 
-## Steps
-1. confirmed not a taxable event
-2. fill out TDAmeritrade form
-3. upload
-4. send money to Fidelity Account -> zero out TD Ameritrade
-5. fund the TD Traditional -> transfer to Roth
-6. fill out turbo tax
+
 
 ## How do I enter a backdoor Roth IRA conversion?
 
