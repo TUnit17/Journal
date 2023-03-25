@@ -1,4 +1,4 @@
-
+> If you roll money from your old workplace savings plan to your current plan within 60 days, you do not have to pay taxes. If you do not roll your money into your current employer's plan within 60 days, you may owe taxes.
 
 ## Steps
 1. confirmed not a taxable event
