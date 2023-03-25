@@ -1,5 +1,13 @@
 
 
+## Steps
+1. confirmed not a taxable event
+2. fill out TDAmeritrade form
+3. upload
+4. send money to Fidelity Account -> zero out TD Ameritrade
+5. fund the TD Traditional -> transfer to Roth
+6. fill out turbo tax
+
 ## How do I enter a backdoor Roth IRA conversion?
 
 - A backdoor Roth IRA allows you to get around income limits by converting a traditional IRA into a Roth IRA. Contributing directly to a Roth IRA is restricted if your income is beyond certain limits, but there are no income limits for conversions.
