@@ -2,6 +2,7 @@
 - [X] confirmed not a taxable event
 - [X] confirmed that I need to zero out the TD Traditional account
 - [ ] call Fidelity for Qualified Plan address and Plan Account Number
+- [ ] call Fidelity to see what happens when I get the check
 - [ ] fill out TDAmeritrade form
 - [ ] upload PDF
 - [ ] get the check in 2 weeks
