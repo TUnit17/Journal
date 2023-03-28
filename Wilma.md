@@ -6,3 +6,4 @@
 5. Dinner at the park? Dinner outside? 
 6. How can we spend more time together?
 7. Should we spend time reading anime together?
+8. Is there a Webtoon app I can get on my iPad that we can read together?
