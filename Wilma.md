@@ -9,4 +9,11 @@
 8. Is there a Webtoon app I can get on my iPad that we can read together?
 9. Is separate Bible studies a good thing??
 10. What expectations can I adjust?
-11. 
+
+
+## Baby#2
+1. STI
+2. kitchen remodel plan
+3. Wilma bathes Paul and puts to sleep daily
+4. Wilma plays with Paul on weekends
+5. Wilma cleans up living room
