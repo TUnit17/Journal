@@ -1,3 +1,8 @@
+## How can I increase my volume/frequency?
+1. Saturday morning 9-9:39am
+2. evening nights 8-8:30pm
+3. more setup
+
 ## Thoughts
 1. When will I read code?
 1. How can I find out what other ppl are working on?
