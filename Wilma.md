@@ -7,3 +7,6 @@
 6. How can we spend more time together?
 7. Should we spend time reading anime together?
 8. Is there a Webtoon app I can get on my iPad that we can read together?
+9. Is separate Bible studies a good thing??
+10. What expectations can I adjust?
+11. 
