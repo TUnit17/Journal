@@ -1,8 +1,9 @@
 ## Series White STI steps
-1. buy it next Sat In Bellevue or Renton
-1. oil change check
-1. CarFax report
-1. 
+1. replace exhaust or credit me some money
+2. buy it next Sat In Bellevue or Renton
+3. oil change check
+4. CarFax report
+5. 
 
 
 
