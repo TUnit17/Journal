@@ -1,3 +1,11 @@
+## Should I buy weights at home?
+- use on M,R,F
+- dumbbells and bench
+- put downstairs
+- cost $300? 
+- bow flex dumbells: presss, shoulders, 
+
+
 ## How can I increase my volume/frequency?
 1. Saturday morning 9-9:39am
 2. evening nights 8-8:30pm
