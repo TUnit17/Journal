@@ -3,7 +3,9 @@
 - dumbbells and bench
 - put downstairs
 - cost $300? 
-- bow flex dumbells: presss, shoulders, 
+- bow flex dumbells: presss, shoulders
+- [ ] next step: facebook marketplace, craigslist
+- [ ] next step: look at YT setup at home
 
 
 ## How can I increase my volume/frequency?
