@@ -1,6 +1,17 @@
+## Series White STI steps
+1. buy it next Sat In Bellevue or Renton
+1. oil change check
+1. CarFax report
+1. 
+
+
+
+
+
+
+
 ## 03-22-23
 - Will mom or SPHO drive Paul to daycare? 
-- What 
 
 #### Facts
 1. looking everyday will make me depressed
