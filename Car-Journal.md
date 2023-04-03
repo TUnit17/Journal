@@ -3,7 +3,13 @@
 2. buy it next Sat In Bellevue or Renton
 3. oil change check
 4. CarFax report
-5. 
+5. get Progressive insurance before I buy
+6. Call chase for process and setup appointment.
+7. meet at Chase bank. Do I need cashier's check or do I just do wire transfer routing?
+8. make sure to send the title to my address
+9. get the title in my name
+10. go to DMV in issquah and pay 4k tax, check or credit card? 
+11. get tags/done
 
 
 
