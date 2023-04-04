@@ -1,3 +1,7 @@
+## Should I get a Model-Y?
+- It will be available in the future
+- Price discount is $7500
+
 ## Series White STI steps
 1. replace exhaust or credit me some money
 2. buy it next Sat In Bellevue or Renton
