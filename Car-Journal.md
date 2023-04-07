@@ -13,7 +13,8 @@
 8. make sure to send the title to my address
 9. get the title in my name
 10. go to DMV in issquah and pay 4k tax, check or credit card? 
-11. get tags/done
+11. get tags
+12. done
 
 
 
