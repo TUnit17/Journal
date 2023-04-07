@@ -1,3 +1,10 @@
+## Seems like there are lots of STIs available in SoCal
+1. should I travel?
+2. should I pay cash?
+3. can I negotiate?
+4. what is the total?
+5. should I try to get less than 40k? 
+
 ## Should I get a Model-Y?
 - It will be available in the future
 - Price discount is $7500
