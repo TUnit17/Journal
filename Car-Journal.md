@@ -1,3 +1,6 @@
+## On a rainy day, will I want to drive a soft top miata or gr86?
+- Miata won't be fun on a rainy day 
+
 ## [04-07-23] Seems like there are lots of STIs available in SoCal? 
 1. should I travel?
 2. should I pay cash?
