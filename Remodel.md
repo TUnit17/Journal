@@ -1,8 +1,12 @@
 ## STEPS
 1. designer
 2. build spreadsheet of cost 
-3. contractor
+3. find contractor
 4. electrical
+5. buy new stove appliance? ask Carlie?
+6. prep for demo a. pack all the stuff b. move to garage or storage issue
+7.
+8. 
 
 
 https://www.heiserdesigns.com/services
