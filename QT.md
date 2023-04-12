@@ -6,4 +6,4 @@
 ## Word of encouragement
 - Suffering for God means you are considered worthy of the kingdom of God.
 - Relief from suffering comes when the Lord Jesus returns with his angels
-- Jesus will inflict vengeances on those who do not know God and on those who do not obey
+- Jesus will inflict vengeance on those who do not know God and on those who do not obey
