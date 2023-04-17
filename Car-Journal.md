@@ -1,3 +1,12 @@
+
+## 04-17-23
+- Didn't get series white STI this weekend. Surprising there is 1 in Montana 8hrs away for the same price. and 1 in Arizona with more mileage. I am curious to see how long those will last
+- This weekend is also not good to buy bc of spa day and there is no childcare for Paul. What should Paul and I do in the morning?
+- Go to someone's house? Ian, Kenny, Molly and Ethan. David Wang? 
+- Interest rates are going up, but it still seems like they are selling.
+- The white STI in Sacremento is still available.
+- Not sure if remodel is going to happen for a while bc Wilma feels insecure about her job...
+
 ## On a rainy day, will I want to drive a soft top miata or gr86?
 - Miata won't be fun on a rainy day 
 
