@@ -1,4 +1,10 @@
 
+## 04-18-23
+- Have not heard back from Josh yet.
+- I am leaning towards Miata bc it is fun and financing is good.
+- If I can drive it during the weekdays, I think I will be happy. 
+- Will I need to pickup Paul during the weekdays? Who is taking Paul to school in Sept? Will Mom be here or SPHO? or Me?
+
 ## 04-17-23
 - Didn't get series white STI this weekend. Surprising there is 1 in Montana 8hrs away for the same price. and 1 in Arizona with more mileage. I am curious to see how long those will last
 - This weekend is also not good to buy bc of spa day and there is no childcare for Paul. What should Paul and I do in the morning?
