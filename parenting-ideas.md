@@ -1,3 +1,25 @@
+## Baby2.5
+Pros
+- now is the time
+
+Cons
+- time
+- energy
+
+Everything is predicated on how I feel about Wilma as mother.
+
+```
+if(isAnnoyedAtWilma){
+haveBaby2 = false;
+}
+
+else{
+haveBaby2 = true;
+}
+
+```
+
+
 ## Pick-Up and Drop-Off ride services
 1. ask Expedia parent group
 2. ask NextDoor
