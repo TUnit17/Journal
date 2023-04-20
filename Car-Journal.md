@@ -1,3 +1,24 @@
+## 04-20-23
+- feel annoyed 
+- found a 2016 STI
+
+| property         | description |
+| ---------------- | ----------- |
+| year             | 2016        |
+| target miles     | 50k         |
+| desperation      |             |
+| carfax           |             |
+| vin              |             |
+| title            |             |
+| service records  |             |
+| target price     | 30k         |
+| cost for mods    | 4500        |
+| rims             | 1000        |
+| front bumper     | 1500        |
+| paint correction | 1000        |
+| head unit        | 1000        |
+| detail           | $100        |
+
 
 ## 04-18-23
 - Have not heard back from Josh yet.
