@@ -1,6 +1,7 @@
 ## 04-20-23
-- feel annoyed 
+- feel ~~annoyed~~ excited!
 - found a 2016 STI
+- KBB price?
 
 | property         | description |
 | ---------------- | ----------- |
@@ -9,7 +10,7 @@
 | desperation      |             |
 | carfax           |             |
 | vin              |             |
-| title            |             |
+| has title        |             |
 | service records  |             |
 | target price     | 30k         |
 | cost for mods    | 4500        |
