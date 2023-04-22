@@ -1,3 +1,6 @@
+## 04-22-23
+- going to test drive Jack 2015, 45k miles STI for $29l
+
 ## 04-20-23
 - feel ~~annoyed~~ excited!
 - found a 2016 STI
