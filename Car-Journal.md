@@ -1,5 +1,5 @@
 ## 04-22-23
-- going to test drive Jack 2015, 45k miles STI for $29l
+- going to test drive Jack 2015, 45k miles STI for $29k
 
 ## 04-20-23
 - feel ~~annoyed~~ excited!
