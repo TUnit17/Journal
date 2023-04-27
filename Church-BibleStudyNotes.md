@@ -37,3 +37,14 @@ The water that I will give him will become in him a spring of water welling up t
 [15] The woman said to him, “Sir, give me this water, so that I will not be thirsty or have to come here to draw water.” (ESV)
 
 ``` 
+
+# Idea
+
+1. write the name of 5 ppl in cups
+1. pray for one person
+1. pour out water for that person
+---------
+1. write the name of 5 ppl in candles
+1. pray for one person
+1. light a candle 
+
