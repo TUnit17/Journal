@@ -1,4 +1,14 @@
 
+## 04-27-23
+- Not sure I want a 2017
+  - Cons
+    - aesthetics
+      - front bumper
+      - rims
+  - Pros
+    - cost : $28k
+
+
 ## 04-24-23
 https://www.partify.store/products/subaru-wrx-wrx-sti-front-bumper-su1000190?gclid=CjwKCAjw0ZiiBhBKEiwA4PT9z2mxWk1csihcGod2BMXZgbbNjIL5HWTKpOtFS5v8WvgIKs-crLQuKRoCpoIQAvD_BwE
 
