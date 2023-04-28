@@ -1,3 +1,12 @@
+## 04-28-23
+What will I regret? 
+Not buying newer?
+Spending too much money?
+Getting an older can and not being happy. -> 2015
+- What if I have to spend $2000 in maintenance?
+- Any maintenance amount will make it automatically not worth it! 
+
+
 
 ## 04-27-23
 - Not sure I want a 2017
