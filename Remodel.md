@@ -1,4 +1,17 @@
-## STEPS
+# 05-03-23
+1. finalized design
+2. review design with Master Li
+3. get new pricing
+4. pick a start date
+5. prep for demolition
+6. demo
+7. revision may be needed
+8. electrical
+9. install cabinets
+10. install 
+
+
+# STEPS
 1. designer
 2. build spreadsheet of cost 
 3. find contractor
