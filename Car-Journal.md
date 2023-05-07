@@ -1,3 +1,8 @@
+## 04-29-23
+- It is done but I feel some shame and regret
+- Am I worthy? 
+
+
 ## 04-28-23
 What will I regret? 
 Not buying newer?
