@@ -1,3 +1,34 @@
+# 05-03-23
+
+## STEPS
+1. finalized design
+1. review design with Master Li
+1. get new pricing
+1. pick a start date
+1. select finishes
+   1. flooring
+   1. stove
+   1. microwave
+   1. cabinet door handles  
+1. prep for demolition
+   1. pack stuff
+   1. get movers 
+1. demolition
+1. revision may be needed
+1. electrical
+1. install floors and trim 
+1. install cabinets
+1. install countertop
+1. install applicances 
+1. clean up
+1. move in
+1. discover issues/change-requests
+1. fix change requests
+1. done
+
+
+# Some date in April
+
 ## STEPS
 1. designer
 2. build spreadsheet of cost 

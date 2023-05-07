@@ -1,3 +1,7 @@
+## 05-06-23
+
+https://subimods.com/products/kartboy-short-throw-shifter-and-bushings-combo-2004-2016-sti-kb-20-sti-combo
+
 ## 04-29-23
 - It is done but I feel some shame and regret
 - Am I worthy? 
