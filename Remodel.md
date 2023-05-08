@@ -1,4 +1,4 @@
-# 05-03-23
+# 05-08-23
 
 ## STEPS
 1. finalized design
@@ -16,6 +16,9 @@
 1. demolition
 1. revision may be needed
 1. electrical
+   1. power outlet: microwave and airtry
+   1. ceiling lights in kitchen
+   1. ceiling lights in living room
 1. install floors and trim 
 1. install cabinets
 1. install countertop
