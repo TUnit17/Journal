@@ -9,6 +9,7 @@
    1. flooring
    1. stove
    1. microwave
+   1. dishwasher
    1. cabinet door handles  
 1. prep for demolition
    1. pack stuff (kitchen, bedroom, office, living room) -> store stuff in garage?
