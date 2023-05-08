@@ -11,8 +11,9 @@
    1. microwave
    1. cabinet door handles  
 1. prep for demolition
-   1. pack stuff
+   1. pack stuff (kitchen, bedroom, office, living room) -> store stuff in garage?
    1. get movers 
+   1. move to AirBnB?
 1. demolition
 1. revision may be needed
 1. electrical
