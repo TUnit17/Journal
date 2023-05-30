@@ -2,34 +2,36 @@
 
 ## STEPS
 1. finalized design
-1. review design with Master Li
-1. get new pricing
-1. pick a start date
-1. select finishes
+   1. print design
+   2. tape it up
+2. review design with Master Li
+3. get new pricing
+4. pick a start date
+5. select finishes
    1. flooring
-   1. stove
-   1. microwave
-   1. dishwasher
-   1. cabinet door handles  
-1. prep for demolition
+   2. stove
+   3. microwave
+   4. dishwasher
+   5. cabinet door handles  
+6. prep for demolition
    1. pack stuff (kitchen, bedroom, office, living room) -> store stuff in garage?
-   1. get movers 
-   1. move to AirBnB?
-1. demolition
-1. revision may be needed
-1. electrical
+   2. get movers 
+   3. move to AirBnB?
+7. demolition
+8. revision may be needed
+9.  electrical
    1. power outlet: microwave and airtry
-   1. ceiling lights in kitchen
-   1. ceiling lights in living room
-1. install floors and trim 
-1. install cabinets
-1. install countertop
-1. install applicances 
-1. clean up
-1. move in
-1. discover issues/change-requests
-1. fix change requests
-1. done
+   2. ceiling lights in kitchen
+   3. ceiling lights in living room
+10. install floors and trim 
+11. install cabinets
+12. install countertop
+13. install applicances 
+14. clean up
+15. move in
+16. discover issues/change-requests
+17. fix change requests
+18. done
 
 
 # Some date in April
